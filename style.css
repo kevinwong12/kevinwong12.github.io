@@ -1,8 +1,8 @@
 body{
-	background-image: url('222.jpg');
-   background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
+	background:url("222.jpg")no-repeat;
+	background-size:100px;
+	font-family:Arial;
+	color:white;
 }
 
 ul{
